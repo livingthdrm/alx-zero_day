@@ -1,2 +1,2 @@
 # alx-zero_day
-My first README
+I updated my readme
